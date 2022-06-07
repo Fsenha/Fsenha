@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fsenha
-- 👀 I’m interested in play fifa
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on meu projeto 
+- 👀 I’m interested 
+- 🌱 I’m currently 
+- 💞️ I’m looking to  
 - 📫 How to reach me fesenha@gmail.com
 
 <!---
